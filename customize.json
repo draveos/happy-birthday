@@ -1,6 +1,6 @@
 {
-  "greeting": "안녕",
-  "name": "주은아~!",
+  "greeting": "hi",
+  "name": "jueun",
   "greetingText": "I made this just for you!",
   "wishText": "Have fun and enjoy your day! ;)",
   "imagePath": "img/lydia2.png",
@@ -9,7 +9,7 @@
   "sendButtonLabel": "Send",
   "text2": "Yea.",
   "text3": "SSabaljuk coding",
-  "text4": "This is a present for you Ju Eun! because you are our",
+  "text4": "This is a present for you Ju Eun!because you are our",
   "text4Adjective": "friend",
   "text5Entry": "Because,",
   "text5Content": "You are Special",
